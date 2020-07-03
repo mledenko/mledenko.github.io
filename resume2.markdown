@@ -7,7 +7,7 @@ title: Resume
 
 ------------------------------------------------------------------------
 
-<michael.ledenko@icloud.com> 
+[Contact Me](mledenko.github.io/contact.html)
 [LinkedIn](linkedin.com/in/mledenko)
 [Twitter](twitter.com/ledenko_)
 
@@ -15,9 +15,10 @@ title: Resume
 
 **Capital University Law School**  May 2020
 
-*Juris Doctor* GPA: 3.076/4.0 Class Rank: 42/117 
-
-Recipient of the 2020 Roberta Mitchell Award for Excellence
+*Juris Doctor* 
+* GPA: 3.076/4.0 
+* Class Rank: 42/117 
+* Recipient of the 2020 Roberta Mitchell Award for Excellence
 in the Legal Clinic
 
 **The Ohio State University** May 2020
@@ -76,6 +77,7 @@ Eastern Division**  Sep 2018 -- Dec 2018 \| Sep 2019 --
 
 **American Civil Liberties Union Student Chapter** 
 * Treasurer Sep 2019 -- May 2020
+
 **Criminal Law Society** 
 * Public Relations Officer Sep 2019 -- May 2020
 
