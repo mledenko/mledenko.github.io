@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[Resume](mledenko.github.io)
+[Resume](mledenko.github.io/resume)
