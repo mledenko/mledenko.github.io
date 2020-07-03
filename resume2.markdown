@@ -9,6 +9,7 @@ title: Resume
 
 <michael.ledenko@icloud.com> 
 [LinkedIn](linkedin.com/in/mledenko)
+[Twitter](twitter.com/ledenko_)
 
 ## Education ##
 
@@ -21,9 +22,9 @@ in the Legal Clinic
 
 **The Ohio State University** May 2020
 
-*Bachelor of Science in Security and Intelligence**
+*Bachelor of Science in Security and Intelligence*
 
-**Minor in Environmental Sciences*
+*Minor in Environmental Sciences*
 
 ## Legal Experience ## 
 
