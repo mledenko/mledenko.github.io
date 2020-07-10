@@ -21,7 +21,7 @@
 title: Michael J. Ledenko
 email: michael.ledenko@icloud.com
 description: |- # this means to ignore newlines until "baseurl:"
-  Capital University Law School, Class of 2020
+  Capital University Law School, 2020
   Advocate, Serial Hobbyist
   Wear a mask, wash your hands, stay at least 6 feet from anyone that doesn't live with you
 baseurl: "" # the subpath of your site, e.g. /blog
