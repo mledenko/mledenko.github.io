@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a graduate of Capital University Law School with a __Juris Doctor__. I have
+a Bachelors of Science from Ohio State in Security and Intelligence and a Minor
+in Environmental Sciences. I'm a technology enthusiast, particualry data
+privacy and consumer technologies&mdash;especially where these intersect with
+the Fourth Amendment. My other hobbies include gaming of both the video and
+tabletop varieties, cycling, beer-making, and reading. I'm always looking for a
+new hobby, suggestions welcome. I have strong opinions on privacy, typography,
+punctuation generally, and the Oxford comma specifically.
