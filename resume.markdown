@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-------------------------------------------------------------------------
+
 
 [Contact Me](mledenko.github.io/contact.html)
 [LinkedIn](linkedin.com/in/mledenko)
