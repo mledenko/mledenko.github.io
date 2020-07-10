@@ -3,8 +3,6 @@ layout: page
 title: Resume
 ---
 
-%# **Michael J. Ledenko** #
-
 ------------------------------------------------------------------------
 
 [Contact Me](mledenko.github.io/contact.html)
