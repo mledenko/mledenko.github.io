@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Welcome"
+date: 2020-07-10 
+---
+Thanks for visiting my new website. I'm a recent law grad from Capital
+University Law School. I have worked for state agencies, the federal judiciary,
+and a public defender's office. You can find more details in my
+[Resume](mledenko.github.io/resume). If you want to get in
+touch, please use this [form](mledenko.github.io/contact). I will make every
+effor to respond quickly, but be advised I'm currently studying for a bar exam
+that's not likely to take place because of the corona virus pandemic. So it
+goes. Wash your hands, wear a mask, and practice good social distancing habits.
+
