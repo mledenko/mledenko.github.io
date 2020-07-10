@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-# **Michael J. Ledenko** #
+%# **Michael J. Ledenko** #
 
 ------------------------------------------------------------------------
 
