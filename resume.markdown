@@ -28,12 +28,6 @@ in the Legal Clinic
 
 ## Legal Experience ## 
 
-**Capital University General Litigation Clinic** Sep 2019 -- Present 
-* Legal Intern
-  * Defended clients on misdemeanor and felony charges 
-  * Assisted clients with civil protection orders and divorce proceedings 
-  * Prosecuted misdemeanor charges in Hilliard City Mayor's Court
-
 **Franklin County Public Defender** Nov 2018 -- Present 
 * Legal Intern Felony Division 
   * Helped transition Franklin County Court of Common Pleas General
@@ -45,6 +39,12 @@ post-conviction motions
 arraignment and other hearings. 
 * Legal Intern Juvenile Division Aug 2019 -- Dec 2019
   * Processed client intake
+
+**Capital University General Litigation Clinic** Sep 2019 -- Aug 2020 
+* Legal Intern
+  * Defended clients on misdemeanor and felony charges 
+  * Assisted clients with civil protection orders and divorce proceedings 
+  * Prosecuted misdemeanor charges in Hilliard City Mayor's Court
 
 **United States District Court for the Southern District of Ohio,
 Eastern Division**  Sep 2018 -- Dec 2018 \| Sep 2019 --
@@ -65,6 +65,11 @@ Eastern Division**  Sep 2018 -- Dec 2018 \| Sep 2019 --
   *  Assisted attorneys and clients with paperwork necessary to affect a legal name change.
 
 ## Work Experience ##
+
+**Assistant Debate Coach**, John F. Kennedy Catholic High School Aug 2020 --
+Present
+* Lincoln-Douglass Debate Coach
+  * Taught students how to research, write, and argue persuasively.
 
 **Department of Recreational Sports**, The Ohio State University Aug 2014 -- Aug 2017
 * Assistant, Manager, Coordinator 
